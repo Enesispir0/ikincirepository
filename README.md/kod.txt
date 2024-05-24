@@ -1,4 +1,8 @@
 kodları ekliyoruz 
 menü kodları
 
+<<<<<<< HEAD
 kullaci kodları
+=======
+admin kodları
+>>>>>>> main
